@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+li, p, h2, h3 {
+    font-family: Helvetica;
+    text-align: center;
+}
+
+.aside, nav {
+    background-color: red;
+    color: #FFFFFF;
+}
